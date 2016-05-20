@@ -1,7 +1,0 @@
-body {
-	text-align: center;
-	background: url(images/statehouse.jpeg)
-	background-size: cover; 
-	color: #fff;
-	font-family: Helvetica
-}
