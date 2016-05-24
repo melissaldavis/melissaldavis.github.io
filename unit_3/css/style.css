@@ -1,0 +1,19 @@
+body{
+	background-color:#FBFFE3
+	text-align: center;
+}
+
+h1{
+	color:#7E7F71;
+	font-family: Raleway,san-serif;
+	font-size: large;
+	text-align: center;
+}
+
+#slogan{
+	color:#787F4B;
+	font-family: Georgia,serif;
+	font-style: italic;
+	font-size: xx-large;
+	text-align: center;
+}
