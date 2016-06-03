@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Cardo);
+@import url(https://fonts.googleapis.com/css?family=Karla);
+
+body{
+	background-color:#FBFFE3;
+	font-size:16px;
+	text-align: center;
+}
+
+h1{
+	color:#7E7F71;
+	font-family: 'Cardo', serif;
+	font-size:2em;
+	text-align: center;
+}
+
+#slogan{
+	color:#787F4B;
+	font-family: Georgia,serif;
+	font-style: italic;
+	font-size:4em;
+	text-align: center;
+}
+
+img {
+	width:100%;
+}
