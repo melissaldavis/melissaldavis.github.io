@@ -1,0 +1,69 @@
+@import url(https://fonts.googleapis.com/css?family=Cardo);
+@import url(https://fonts.googleapis.com/css?family=Karla);
+
+body{
+	background-color:#FBFFE3;
+	font-size:16px;
+	text-align: center;
+}
+
+header {
+	background-color:#FFED74;
+	border:none;
+	padding:1em;
+}
+
+#left {
+	background-color:#E89C6C;
+	padding:1em;
+}
+
+#right{
+	background-color:#E89C6C;
+	padding:1em;
+}
+
+h1{
+	color:#7E7F71;
+	font-family: 'Cardo', serif;
+	font-size:2em;
+	text-align: center;
+}
+
+#slogan{
+	color:#787F4B;
+	font-family: Georgia,serif;
+	font-style: italic;
+	font-size:4em;
+	text-align: center;
+}
+
+img {
+	width:100%;
+}
+
+.wrapper{
+	background-color:#FFFFFF;
+	padding:1em;
+	margin:2em;
+}
+
+#hpv,
+#dv,
+#peba,
+#chea,
+#telemedicine,
+#bathroom,
+#maternal,
+#personhood,
+#weekban,
+#de{
+	background-color:#FFE2B8;
+	padding:.5em;
+}
+
+footer {
+	background-color:#FF957E;
+	padding:1em;
+}
+
