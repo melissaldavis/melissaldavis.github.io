@@ -17,6 +17,12 @@ nav{
 	background-color:#E8C66A;
 }
 
+.navlinks {
+	color:#000000;
+	margin:0 25px;
+	text-transform:uppercase;
+}
+
 #left {
 	background-color:#E89C6C;
 	padding:1em;
